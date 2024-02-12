@@ -228,7 +228,7 @@ On the controller side, any exceptions can be thrown from the UploadModel. Excep
 
 If an error is returned from the server while uploading a file, its name will be replaced in the file list by an error message. If the application is not in run mode, the information with the error message from the exception is written as an error to the console.
 
-## Upgrading from 1.2 tp 2.0
+## Upgrading from 1.2 to 2.0
 
 ### Registration
 
